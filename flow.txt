@@ -4,4 +4,5 @@ Skenario
 2. Install "npm install --save-dev htmlhint"
 3. Buat file .gitignore isi dengan node_modules
 4. Buat file index.html, lalu buat tag html h1 dengan value Testing
-5. Buat file .htmlhintrc, fungsinya untuk membuat rules valuenya
+5. Buat file .htmlhintrc, fungsinya untuk membuat rules (valuenya ambil contoh di exampleFile)
+6. Buat folder .github/workflows/main-ci.yml (valuenya ambil contoh di exampleFile)
